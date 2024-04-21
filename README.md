@@ -68,7 +68,7 @@ After getting a contour required to sort out the identity using hierarchy settin
 
 ![pipe line of sorting and displayed labled objects ](https://github.com/janitha1205/object-detection/blob/main/Screenshot%202024-04-21%20193735.png)
 
-
+![hierarchy selection](https://github.com/janitha1205/object-detection/blob/main/Screenshot%202024-04-21%20211226.png)
 
 
 
