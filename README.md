@@ -66,7 +66,7 @@ Computational time for video based tracking
 To evaluate predefined structure to determine consecutive frames useful to have this hierarchy which is give some meaning to identity 
 After getting a contour required to sort out the identity using hierarchy setting could be structured the defined contour 
 
-![pipe line of sorting and displayed labled objects ](Screenshot 2024-04-21 193735.png)
+![pipe line of sorting and displayed labled objects ](https://github.com/janitha1205/object-detection/blob/main/Screenshot%202024-04-21%20193735.png)
 
 
 
